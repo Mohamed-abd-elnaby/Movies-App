@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/size10"
+        android:background="@drawable/in_message_bg">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/author"
+            android:layout_gravity="center_vertical"
+            android:text=""
+            android:textSize="@dimen/size30"
+            android:layout_marginLeft="@dimen/size5"
+            android:gravity="left"
+            android:textStyle="italic|bold"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/size5"
+            android:layout_marginRight="@dimen/size5"
+            android:layout_marginTop="@dimen/size5"
+            android:layout_marginLeft="@dimen/size5"
+            android:background="@drawable/out_message_bg"
+            >
+            <TextView
+            android:text=""
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/size20"
+                android:textColor="@color/colorPrimary"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+            android:id="@+id/content"
+            android:textStyle="italic|bold"
+            android:layout_marginLeft="@dimen/size5"
+            android:layout_marginRight="@dimen/size5"
+            android:layout_marginTop="@dimen/size5"
+            android:layout_marginBottom="@dimen/size5"
+            />
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="pagekey" translatable="false">page</string>
+    <string name="pagedefault" translatable="false">1</string>
+    <string name="player_error">error magafe</string>
+    <string name="setting_hint_size_of_image">size of image</string>
+    <string name="setting_hint_language">Enter Your Language</string>
+    <string name="setting_hint_page_number">Enter Your Page Number</string>
+    <string name="setting_general_setting">General Setting</string>
+    <string name="click_here">Click Here For Some Picture</string>
+    <string name="Reviwers">Reviwers</string>
+    <string name="overview">Overview :</string>
+    <string name="Trailers">Trailers :-</string>
+    <string name="Commentes">Commentes :-</string>
+    <string name="Details">Details</string>
+    <string name="Main">Main</string>
+
+
+
+</resources>
+

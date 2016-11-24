@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:gravity="left"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <ImageButton
+            android:layout_gravity="center"
+            android:id="@+id/trailerbutton"
+            android:layout_width="@dimen/detail_buttonimage_width"
+            android:layout_height="@dimen/setting_buttonimage_hight"
+            android:src="@drawable/ic_play_arrow_black_24dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trailer "
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="@dimen/size15"
+            android:textSize="@dimen/size20"
+            />
+        <TextView
+            android:id="@+id/trailerIndex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/size20"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/size5"
+        android:layout_height="@dimen/size1"
+        android:background="@android:color/holo_green_dark"
+
+        />
+
+
+
+</LinearLayout>

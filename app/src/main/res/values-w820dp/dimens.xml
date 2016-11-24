@@ -1,0 +1,51 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="setting_buttonimage_hight">50dp</dimen>
+    <dimen name="setting_buttonimage_width">350dp</dimen>
+    <dimen name="detail_buttonimage_width">170dp</dimen>
+    <dimen name="detail_buttonimage_hight">120dp</dimen>
+    <dimen name="setting_margin">120dp</dimen>
+    <dimen name="size1">10dp</dimen>
+    <dimen name="size2">12dp</dimen>
+    <dimen name="size3">14dp</dimen>
+    <dimen name="size4">16dp</dimen>
+    <dimen name="size5">18dp</dimen>
+    <dimen name="size6">20dp</dimen>
+    <dimen name="size7">22dp</dimen>
+    <dimen name="size8">24dp</dimen>
+    <dimen name="size9">26dp</dimen>
+    <dimen name="size10">28dp</dimen>
+    <dimen name="size11">30dp</dimen>
+    <dimen name="size12">32dp</dimen>
+    <dimen name="size13">34dp</dimen>
+    <dimen name="size14">36dp</dimen>
+    <dimen name="size15">38dp</dimen>
+    <dimen name="size16">40dp</dimen>
+    <dimen name="size17">42dp</dimen>
+    <dimen name="size18">44dp</dimen>
+    <dimen name="size19">46dp</dimen>
+    <dimen name="size20">48dp</dimen>
+    <dimen name="size21">50dp</dimen>
+    <dimen name="size22">52dp</dimen>
+    <dimen name="size23">54dp</dimen>
+    <dimen name="size24">56dp</dimen>
+    <dimen name="size25">58dp</dimen>
+    <dimen name="size26">60dp</dimen>
+    <dimen name="size27">62dp</dimen>
+    <dimen name="size28">64dp</dimen>
+    <dimen name="size29">66dp</dimen>
+    <dimen name="size30">68dp</dimen>
+    <dimen name="size31">70dp</dimen>
+    <dimen name="size32">72dp</dimen>
+    <dimen name="size33">74dp</dimen>
+    <dimen name="size34">76dp</dimen>
+    <dimen name="size35">78dp</dimen>
+    <dimen name="size36">80dp</dimen>
+    <dimen name="size37">82dp</dimen>
+    <dimen name="size38">84dp</dimen>
+    <dimen name="size39">86dp</dimen>
+    <dimen name="size40">88dp</dimen>
+</resources>
